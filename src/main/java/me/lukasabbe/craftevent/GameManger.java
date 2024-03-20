@@ -5,7 +5,6 @@ import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -16,12 +15,13 @@ public class GameManger {
     private final List<CraftEventPlayer> onlinePlayers = new ArrayList<>();
     private final List<PlayerBox> playerBoxes = new ArrayList<>();
     public void startGame(){
+        if(isGameOn) return;
         isGameOn = true;
         List<CraftEventPlayer> players = onlinePlayers
                 .stream()
                 .filter(player -> !player.isSpectating())
                 .collect(Collectors.toList());
-        if(!condtions(2)) return; // Change to player base
+        if(!conditions(2)) return; // Change to player base
 
         List<Integer> cords = CraftEvent.instance.getConfig().getIntegerList("playerBox");
         final int x = cords.get(0);
@@ -53,11 +53,25 @@ public class GameManger {
             }
         });
 
+        //generate list of items with rooms
+
+        //send list to all rooms
+
+        //check if box has succeeded with task in PlayerBox
+
+        // Add listener here that get triggers when a box wins.
+
+        /*
+            other: Turn of block destroying outside of boxes
+                   Turn of add auto play
+                   add friend command/ pair command
+
+         */
 
 
     }
 
-    public boolean condtions(int count){
+    private boolean conditions(int count){
         return count >= 2;
     }
 
