@@ -1,0 +1,13 @@
+name: CraftEvent
+version: '${project.version}'
+main: me.lukasabbe.craftevent.CraftEvent
+api-version: '1.20'
+commands:
+  setspawn:
+    description: sets spawn for event
+    usage: /<command> x y z
+    permission: craftevent.setspawn
+  start:
+    description: Starts the game
+    usage: /<command>
+    permission: craftevent.startgame

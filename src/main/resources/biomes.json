@@ -1,0 +1,267 @@
+[
+  {
+    "name": "oak_forest",
+    "x":-17,
+    "y":66,
+    "z":-5,
+    "entities": [
+      {
+        "name": "minecraft:chicken",
+        "x":-3,
+        "y":-5,
+        "z":1
+      }
+    ]
+  },
+  {
+    "name": "acacia_forest",
+    "x":-17,
+    "y":66,
+    "z":9,
+    "entities": [
+      {
+        "name": "minecraft:cow",
+        "x":-3,
+        "y":-5,
+        "z":1
+      }
+    ]
+  },
+  {
+    "name": "iron_and_gold_cave",
+    "x":-17,
+    "y":66,
+    "z":23,
+    "entities": []
+  },
+  {
+    "name": "geode_cave",
+    "x":-17,
+    "y":66,
+    "z":37,
+    "entities": []
+  },
+  {
+    "name": "all_stones_cave",
+    "x":-17,
+    "y":66,
+    "z":51,
+    "entities": [
+      {
+        "name": "minecraft:skeleton",
+        "x":-2,
+        "y":-5,
+        "z":3
+      }
+    ]
+  },
+  {
+    "name": "red_dia_lap_cave",
+    "x":-17,
+    "y":66,
+    "z":65,
+    "entities": [
+      {
+        "name": "minecraft:spider",
+        "x":-2,
+        "y":-5,
+        "z":3
+      }
+    ]
+  },
+  {
+    "name": "water_gravel",
+    "x":-17,
+    "y":66,
+    "z":78,
+    "entities": []
+  },
+  {
+    "name": "farm",
+    "x":-17,
+    "y":66,
+    "z":92,
+    "entities": []
+  },
+  {
+    "name": "bamboo_forest",
+    "x":-17,
+    "y":66,
+    "z":106,
+    "entities": []
+  },
+  {
+    "name": "desert",
+    "x":-17,
+    "y":66,
+    "z":120,
+    "entities": []
+  },
+  {
+    "name": "nether_fortress",
+    "x":-17,
+    "y":66,
+    "z":134,
+    "entities": [
+      {
+        "name": "minecraft:wither_skeleton",
+        "x":-3,
+        "y":-5,
+        "z":1
+      },
+      {
+        "name": "minecraft:blaze",
+        "x":-3,
+        "y":-5,
+        "z":3
+      }
+    ]
+  },
+  {
+    "name": "lava_cave",
+    "x":-17,
+    "y":66,
+    "z":148,
+    "entities": [
+      {
+        "name": "minecraft:creeper",
+        "x":-2,
+        "y":-5,
+        "z":3
+      }
+    ]
+  },
+  {
+    "name": "birch_forest",
+    "x":-17,
+    "y":66,
+    "z":162,
+    "entities": [
+      {
+        "name": "minecraft:sheep",
+        "x":-3,
+        "y":-5,
+        "z":1
+      }
+    ]
+  },
+  {
+    "name": "basalt_deltas",
+    "x":-17,
+    "y":66,
+    "z":176,
+    "entities": []
+  },
+  {
+    "name": "ice_spikes",
+    "x":-17,
+    "y":66,
+    "z":190,
+    "entities": []
+  },
+  {
+    "name": "cherry_forest",
+    "x":-17,
+    "y":66,
+    "z":204,
+    "entities": [
+      {
+        "name": "minecraft:pig",
+        "x":-3,
+        "y":-5,
+        "z":1
+      }
+    ]
+  },
+  {
+    "name": "nether",
+    "x":-17,
+    "y":66,
+    "z":218,
+    "entities": []
+  },
+  {
+    "name": "red_sand_desert",
+    "x":-17,
+    "y":66,
+    "z":232,
+    "entities": []
+  },
+  {
+    "name": "jungle_forest",
+    "x":-17,
+    "y":66,
+    "z":246,
+    "entities": []
+  },
+  {
+    "name": "crimson_forest",
+    "x":-17,
+    "y":66,
+    "z":260,
+    "entities": []
+  },
+  {
+    "name": "dark_oak_forest",
+    "x":-17,
+    "y":66,
+    "z":274,
+    "entities": []
+  },
+  {
+    "name": "end",
+    "x":-17,
+    "y":66,
+    "z":288,
+    "entities": [
+      {
+        "name": "minecraft:enderman",
+        "x":-3,
+        "y":-5,
+        "z":1
+      }
+    ]
+  },
+  {
+    "name": "netherite_nether",
+    "x":-17,
+    "y":66,
+    "z":302,
+    "entities": []
+  },
+  {
+    "name": "mangrove_forest",
+    "x":-17,
+    "y":66,
+    "z":316,
+    "entities": []
+  },
+  {
+    "name": "soul_sand_vally",
+    "x":-17,
+    "y":66,
+    "z":330,
+    "entities": []
+  },
+  {
+    "name": "spruce_forest",
+    "x":-17,
+    "y":66,
+    "z":344,
+    "entities": []
+  },
+  {
+    "name": "warped_forest",
+    "x":-17,
+    "y":66,
+    "z":358,
+    "entities": []
+  },
+  {
+    "name": "oak_forest",
+    "x":-17,
+    "y":66,
+    "z":-5,
+    "entities": []
+  }
+]

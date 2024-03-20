@@ -1,0 +1,1778 @@
+[
+    {
+        "item": "minecraft:acacia_button",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_chest_boat",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_door",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_fence",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_fence_gate",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_hanging_sign",
+        "biomes": ["acacia_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:acacia_leaves",
+        "biomes": ["acacia_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:acacia_planks",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_pressure_plate",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_sign",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_slab",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_stairs",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:acacia_trapdoor",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:activator_rail",
+        "biomes": ["oak_forest", "iron_and_gold_cave", "red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:andesite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:andesite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:andesite_wall",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:anvil",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:armor_stand",
+        "biomes": ["iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:arrow",
+        "biomes": ["water_gravel","oak_forest"]
+    },
+    {
+        "item": "minecraft:baked_potato",
+        "biomes": ["farm"]
+    },
+    {
+        "item": "minecraft:bamboo_block",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_button",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_door",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_chest_raft",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_fence",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_fence_gate",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_hanging_sign",
+        "biomes": ["bamboo_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:bamboo_mosaic",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_mosaic_slab",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_mosaic_stairs",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_planks",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_pressure_plate",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_raft",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_sign",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_slab",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_stairs",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:bamboo_trapdoor",
+        "biomes": ["bamboo_forest"]
+    },
+    {
+        "item": "minecraft:barrel",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:beef",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:beehive",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:beetroot_soup",
+        "biomes": ["farm","oak_forest"]
+    },
+    {
+        "item": "minecraft:birch_boat",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_button",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_chest_boat",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_door",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_fence",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_fence_gate",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_hanging_sign",
+        "biomes": ["birch_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:birch_planks",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_pressure_plate",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_sign",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_slab",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_stairs",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:birch_trapdoor",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:blackstone_slab",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:blackstone_stairs",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:blackstone_wall",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:blast_furnace",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:blaze_powder",
+        "biomes": ["nether_fortress"]
+    },
+    {
+        "item": "minecraft:blue_ice",
+        "biomes": ["ice_spikes"]
+    },
+    {
+        "item": "minecraft:bone_block",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:bone_meal",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:book",
+        "biomes": ["acacia_forest", "birch_forest"]
+    },
+    {
+        "item": "minecraft:bookshelf",
+        "biomes": ["acacia_forest", "birch_forest"]
+    },
+    {
+        "item": "minecraft:bow",
+        "biomes": ["oak_forest", "red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:bowl",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:bread",
+        "biomes": ["farm"]
+    },
+    {
+        "item": "minecraft:brewing_stand",
+        "biomes": ["all_stones_cave", "nether_fortress"]
+    },
+    {
+        "item": "minecraft:brick",
+        "biomes": ["water_gravel"]
+    },
+    {
+        "item": "minecraft:brick_slab",
+        "biomes": ["water_gravel"]
+    },
+    {
+        "item": "minecraft:brick_stairs",
+        "biomes": ["water_gravel"]
+    },
+    {
+        "item": "minecraft:brick_wall",
+        "biomes": ["water_gravel"]
+    },
+    {
+        "item": "minecraft:bricks",
+        "biomes": ["water_gravel"]
+    },
+    {
+        "item": "minecraft:brush",
+        "biomes": ["iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:bucket",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:campfire",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:candle",
+        "biomes": ["oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:carrot_on_a_stick",
+        "biomes": ["farm","oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cartography_table",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:carved_pumpkin",
+        "biomes": ["farm"]
+    },
+    {
+        "item": "minecraft:cauldron",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:chain",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:charcoal",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:cherry_boat",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_button",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_chest_boat",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_door",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_fence",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_fence_gate",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_hanging_sign",
+        "biomes": ["cherry_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cherry_planks",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_pressure_plate",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_sign",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_slab",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_stairs",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cherry_trapdoor",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:chest",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:chest_minecart",
+        "biomes": ["oak_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:chiseled_bookshelf",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:chiseled_deepslate",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:chiseled_nether_bricks",
+        "biomes": ["nether_fortress"]
+    },
+    {
+        "item": "minecraft:chiseled_polished_blackstone",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:chiseled_quartz_block",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:chiseled_red_sandstone",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:chiseled_sandstone",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:chiseled_stone_bricks",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:clock",
+        "biomes": ["iron_and_gold_cave", "red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:coal_block",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cobbled_deepslate_slab",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cobbled_deepslate_stairs",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cobbled_deepslate_wall",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cobblestone_slab",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cobblestone_stairs",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cobblestone_wall",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:comparator",
+        "biomes": ["iron_and_gold_cave", "red_dia_lap_cave", "nether"]
+    },
+    {
+        "item": "minecraft:compass",
+        "biomes": ["iron_and_gold_cave","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:composter",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:cooked_beef",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:cooked_chicken",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:cooked_mutton",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:cooked_porkchop",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:cookie",
+        "biomes": ["jungle_forest", "farm"]
+    },
+    {
+        "item": "minecraft:copper_block",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cracked_deepslate_bricks",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cracked_deepslate_tiles",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cracked_nether_bricks",
+        "biomes": ["nether_fortress"]
+    },
+    {
+        "item": "minecraft:cracked_polished_blackstone_bricks",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:cracked_stone_bricks",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:crafting_table",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:crimson_button",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_door",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_fence",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_fence_gate",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_hanging_sign",
+        "biomes": ["crimson_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:crimson_planks",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_pressure_plate",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_sign",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_slab",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_stairs",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crimson_trapdoor",
+        "biomes": ["crimson_forest"]
+    },
+    {
+        "item": "minecraft:crossbow",
+        "biomes": ["oak_forest","iron_and_gold_cave","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:cut_copper",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cut_copper_slab",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cut_copper_stairs",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:cut_red_sandstone",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:cut_red_sandstone_slab",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:cut_sandstone",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:cut_sandstone_slab",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:dark_oak_boat",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_button",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_chest_boat",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_door",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_fence",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_fence_gate",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_hanging_sign",
+        "biomes": ["dark_oak_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:dark_oak_planks",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_pressure_plate",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_sign",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_slab",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_stairs",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:dark_oak_trapdoor",
+        "biomes": ["dark_oak_forest"]
+    },
+    {
+        "item": "minecraft:daylight_detector",
+        "biomes": ["nether","desert","oak_forest"]
+    },
+    {
+        "item": "minecraft:deepslate_brick_slab",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_brick_stairs",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_brick_wall",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_bricks",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_tile_slab",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_tile_stairs",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_tile_wall",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:deepslate_tiles",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:detector_rail",
+        "biomes": ["red_dia_lap_cave","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:diamond_axe",
+        "biomes": ["red_dia_lap_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:diamond_block",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:diamond_boots",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:diamond_chestplate",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:diamond_helmet",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:diamond_hoe",
+        "biomes": ["red_dia_lap_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:diamond_leggings",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:diamond_pickaxe",
+        "biomes": ["red_dia_lap_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:diamond_shovel",
+        "biomes": ["red_dia_lap_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:diamond_sword",
+        "biomes": ["red_dia_lap_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:diorite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:diorite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:diorite_wall",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:dispenser",
+        "biomes": ["all_stones_cave","red_dia_lap_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:dropper",
+        "biomes": ["all_stones_cave","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:end_rod",
+        "biomes": ["end", "nether_fortress"]
+    },
+    {
+        "item": "minecraft:end_stone_brick_slab",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:end_stone_brick_stairs",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:end_stone_brick_wall",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:end_stone_bricks",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:ender_chest",
+        "biomes": ["end", "nether_fortress", "lava_cave"]
+    },
+    {
+        "item": "minecraft:ender_eye",
+        "biomes": ["end", "nether_fortress"]
+    },
+    {
+        "item": "minecraft:fishing_rod",
+        "biomes": ["oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:fletching_table",
+        "biomes": ["oak_forest","water_gravel"]
+    },
+    {
+        "item": "minecraft:flint_and_steel",
+        "biomes": ["water_gravel","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:furnace",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:furnace_minecart",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:glass",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:glass_bottle",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:glass_pane",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:glistering_melon_slice",
+        "biomes": ["iron_and_gold_cave", "farm"]
+    },
+    {
+        "item": "minecraft:gold_block",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:gold_nugget",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:golden_axe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:golden_boots",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:golden_carrot",
+        "biomes": ["iron_and_gold_cave", "farm"]
+    },
+    {
+        "item": "minecraft:golden_chestplate",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:golden_helmet",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:golden_hoe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:golden_leggings",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:golden_pickaxe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:golden_shovel",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:golden_sword",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:granite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:granite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:granite_wall",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:grindstone",
+        "biomes": ["oak_forest","all_stones_cave"]
+    },
+    {
+        "item": "minecraft:hay_block",
+        "biomes": ["farm"]
+    },
+    {
+        "item": "minecraft:heavy_weighted_pressure_plate",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:honey_block",
+        "biomes": ["desert", "oak_forest"]
+    },
+    {
+        "item": "minecraft:honey_bottle",
+        "biomes": ["desert", "oak_forest"]
+    },
+    {
+        "item": "minecraft:honeycomb_block",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:hopper",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:hopper_minecart",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_axe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_bars",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_block",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_boots",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_chestplate",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_door",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_helmet",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_hoe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_ingot",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_leggings",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_nugget",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:iron_pickaxe",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_shovel",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_sword",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:iron_trapdoor",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:item_frame",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:jack_o_lantern",
+        "biomes": ["farm", "iron_and_gold_cave","acacia_forest"]
+    },
+    {
+        "item": "minecraft:jukebox",
+        "biomes": ["oak_forest", "red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:jungle_boat",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_button",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_chest_boat",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_door",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_fence",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_fence_gate",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_hanging_sign",
+        "biomes": ["jungle_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:jungle_planks",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_pressure_plate",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_sapling",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_sign",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_slab",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_stairs",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:jungle_trapdoor",
+        "biomes": ["jungle_forest"]
+    },
+    {
+        "item": "minecraft:ladder",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:lantern",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:lapis_block",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:leather_boots",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:leather_chestplate",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:leather_helmet",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:leather_leggings",
+        "biomes": ["acacia_forest"]
+    },
+    {
+        "item": "minecraft:lectern",
+        "biomes": ["birch_forest","acacia_forest"]
+    },
+    {
+        "item": "minecraft:lever",
+        "biomes": ["oak_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:light_weighted_pressure_plate",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:lightning_rod",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:lodestone",
+        "biomes": ["netherite_nether","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:loom",
+        "biomes": ["red_dia_lap_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_boat",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_button",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_chest_boat",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_door",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_fence",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_fence_gate",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_hanging_sign",
+        "biomes": ["mangrove_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:mangrove_planks",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_pressure_plate",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_sign",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_slab",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_stairs",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:mangrove_trapdoor",
+        "biomes": ["mangrove_forest"]
+    },
+    {
+        "item": "minecraft:map",
+        "biomes": ["iron_and_gold_cave", "birch_forest"]
+    },
+    {
+        "item": "minecraft:minecart",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:mud",
+        "biomes": ["desert","mangrove_forest"]
+    },
+    {
+        "item": "minecraft:muddy_mangrove_roots",
+        "biomes": ["desert","mangrove_forest"]
+    },
+    {
+        "item": "minecraft:nether_brick_fence",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:nether_brick_slab",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:nether_brick_stairs",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:nether_brick_wall",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:nether_bricks",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:netherite_axe",
+        "biomes": ["netherite_nether", "oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_boots",
+        "biomes": ["netherite_nether","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_chestplate",
+        "biomes": ["netherite_nether","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_helmet",
+        "biomes": ["netherite_nether","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_hoe",
+        "biomes": ["netherite_nether", "oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_ingot",
+        "biomes": ["netherite_nether"]
+    },
+    {
+        "item": "minecraft:netherite_leggings",
+        "biomes": ["netherite_nether","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_pickaxe",
+        "biomes": ["netherite_nether", "oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_shovel",
+        "biomes": ["netherite_nether", "oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:netherite_sword",
+        "biomes": ["netherite_nether", "oak_forest", "red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:note_block",
+        "biomes": ["oak_forest","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:oak_boat",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_button",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_chest_boat",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_door",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_fence",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_fence_gate",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_hanging_sign",
+        "biomes": ["oak_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:oak_planks",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_pressure_plate",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_sign",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_slab",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_stairs",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:oak_trapdoor",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:observer",
+        "biomes": ["nether", "all_stones_cave","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:painting",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:paper",
+        "biomes": ["birch_forest"]
+    },
+    {
+        "item": "minecraft:piston",
+        "biomes": ["oak_forest","red_dia_lap_cave","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:polished_andesite",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_andesite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_andesite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_basalt",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_brick_slab",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_brick_stairs",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_brick_wall",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_bricks",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_button",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_pressure_plate",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_slab",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_stairs",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_blackstone_wall",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:polished_deepslate",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:polished_deepslate_slab",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:polished_deepslate_stairs",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:polished_deepslate_wall",
+        "biomes": ["red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:polished_diorite",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_diorite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_diorite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_granite",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_granite_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:polished_granite_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:popped_chorus_fruit",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:porkchop",
+        "biomes": ["cherry_forest"]
+    },
+    {
+        "item": "minecraft:powered_rail",
+        "biomes": ["oak_forest","iron_and_gold_cave","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:purpur_block",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:purpur_pillar",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:purpur_slab",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:purpur_stairs",
+        "biomes": ["end"]
+    },
+    {
+        "item": "minecraft:quartz_block",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:quartz_bricks",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:quartz_pillar",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:quartz_slab",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:quartz_stairs",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:rail",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:red_nether_brick_slab",
+        "biomes": ["soul_sand_vally", "nether"]
+    },
+    {
+        "item": "minecraft:red_nether_brick_stairs",
+        "biomes": ["soul_sand_vally","nether"]
+    },
+    {
+        "item": "minecraft:red_nether_brick_wall",
+        "biomes": ["soul_sand_vally","nether"]
+    },
+    {
+        "item": "minecraft:red_nether_bricks",
+        "biomes": ["soul_sand_vally","nether"]
+    },
+    {
+        "item": "minecraft:red_sandstone",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:red_sandstone_slab",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:red_sandstone_stairs",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:red_sandstone_wall",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:redstone_lamp",
+        "biomes": ["nether","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:redstone_torch",
+        "biomes": ["red_dia_lap_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:repeater",
+        "biomes": ["red_dia_lap_cave","iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:sandstone",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:sandstone_slab",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:sandstone_stairs",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:sandstone_wall",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:scaffolding",
+        "biomes": ["red_dia_lap_cave","bamboo_forest"]
+    },
+    {
+        "item": "minecraft:shears",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:shield",
+        "biomes": ["iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:smithing_table",
+        "biomes": ["iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:smoker",
+        "biomes": ["iron_and_gold_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:smooth_basalt",
+        "biomes": ["basalt_deltas"]
+    },
+    {
+        "item": "minecraft:smooth_quartz",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:smooth_quartz_slab",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:smooth_quartz_stairs",
+        "biomes": ["nether"]
+    },
+    {
+        "item": "minecraft:smooth_red_sandstone",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:smooth_red_sandstone_slab",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:smooth_red_sandstone_stairs",
+        "biomes": ["red_sand_desert"]
+    },
+    {
+        "item": "minecraft:smooth_sandstone",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:smooth_sandstone_slab",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:smooth_sandstone_stairs",
+        "biomes": ["desert"]
+    },
+    {
+        "item": "minecraft:smooth_stone",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:smooth_stone_slab",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:soul_campfire",
+        "biomes": ["soul_sand_vally", "oak_forest"]
+    },
+    {
+        "item": "minecraft:soul_lantern",
+        "biomes": ["soul_sand_vally", "oak_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:soul_torch",
+        "biomes": ["oak_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:spruce_boat",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_button",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_chest_boat",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_door",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_fence",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_fence_gate",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_hanging_sign",
+        "biomes": ["spruce_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:spruce_planks",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_pressure_plate",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_sign",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_slab",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_stairs",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spruce_trapdoor",
+        "biomes": ["spruce_forest"]
+    },
+    {
+        "item": "minecraft:spyglass",
+        "biomes": ["geode_cave","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:stick",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:stone_axe",
+        "biomes": ["all_stones_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:stone_brick_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_brick_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_brick_wall",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_bricks",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_button",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_hoe",
+        "biomes": ["all_stones_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:stone_pickaxe",
+        "biomes": ["all_stones_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:stone_pressure_plate",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_shovel",
+        "biomes": ["all_stones_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:stone_slab",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_stairs",
+        "biomes": ["all_stones_cave"]
+    },
+    {
+        "item": "minecraft:stone_sword",
+        "biomes": ["all_stones_cave","oak_forest"]
+    },
+    {
+        "item": "minecraft:stonecutter",
+        "biomes": ["iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:target",
+        "biomes": ["farm","red_dia_lap_cave"]
+    },
+    {
+        "item": "minecraft:tnt",
+        "biomes": ["lava_cave", "desert"]
+    },
+    {
+        "item": "minecraft:tnt_minecart",
+        "biomes": ["lava_cave", "desert","iron_and_gold_cave" ]
+    },
+    {
+        "item": "minecraft:torch",
+        "biomes": ["iron_and_gold_cave", "oak_forest"]
+    },
+    {
+        "item": "minecraft:trapped_chest",
+        "biomes": ["oak_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:tripwire_hook",
+        "biomes": ["oak_forest", "iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:warped_button",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_door",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_fence",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_fence_gate",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_hanging_sign",
+        "biomes": ["warped_forest","iron_and_gold_cave"]
+    },
+    {
+        "item": "minecraft:warped_planks",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_pressure_plate",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_sign",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_slab",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_stairs",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:warped_trapdoor",
+        "biomes": ["warped_forest"]
+    },
+    {
+        "item": "minecraft:wooden_axe",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:wooden_hoe",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:wooden_pickaxe",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:wooden_shovel",
+        "biomes": ["oak_forest"]
+    },
+    {
+        "item": "minecraft:wooden_sword",
+        "biomes": ["oak_forest"]
+    }
+]
