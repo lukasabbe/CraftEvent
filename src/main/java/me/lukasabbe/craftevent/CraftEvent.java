@@ -31,6 +31,7 @@ public final class CraftEvent extends JavaPlugin {
         config.addDefault("biome-s", new int[]{-21 , 0 , 2});
         config.addDefault("biome-w", new int[]{-26 , 0 , -3});
         config.addDefault("playerBox", new int[]{-7, 64, -15, 7, 60, -23});
+        config.addDefault("craft-amount-items", 5);
         config.options().copyDefaults(true);
         saveConfig();
     }
