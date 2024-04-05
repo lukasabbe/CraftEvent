@@ -16,12 +16,13 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class GameManger {
+public class GameManger extends EventTimer {
 
     public boolean isGameOn = false;
 
     private final List<CraftEventPlayer> onlinePlayers = new ArrayList<>();
     private final List<PlayerBox> playerBoxes = new ArrayList<>();
+    private final List<GameStateListener> eventListeners = new ArrayList<>();
     public void startGame(){
         if(isGameOn) return;
         isGameOn = true;
@@ -76,17 +77,6 @@ public class GameManger {
             }
         });
 
-        //check if box has succeeded with task in PlayerBox
-
-        // Add listener here that get triggers when a box wins.
-
-        /*
-            other: Turn of block destroying outside of boxes
-                   Turn of add auto play
-                   add friend command/ pair command
-
-         */
-
     }
 
     private List<ItemData> getNeededBiomes(List<ItemData> items){
@@ -136,4 +126,7 @@ public class GameManger {
         onlinePlayers.removeIf(eventPlayer -> eventPlayer.player.equals(player));
     }
 
+    public void startBoxes(){
+        eventListeners.forEach(GameStateListener::startGame);
+    }
 }

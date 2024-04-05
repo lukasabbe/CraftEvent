@@ -18,9 +18,11 @@ import me.lukasabbe.craftevent.data.ItemData;
 import org.bukkit.Location;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
-public class PlayerBox {
+public class PlayerBox implements GameStateListener {
     private final Location locationOfBox;
     private final World world;
 
@@ -28,11 +30,25 @@ public class PlayerBox {
 
     private List<ItemData> randomizedItems = new ArrayList<>();
 
+    private final List<Location> biomeLocationsPlayer1;
+    private final List<Location> biomeLocationsPlayer2;
+
     public PlayerBox(CraftEventPlayer player1, CraftEventPlayer player2, Location locationOfBox){
         players.add(player1);
         players.add(player2);
         this.locationOfBox = locationOfBox;
-        this.world = BukkitAdapter.adapt(player1.player.getWorld());
+        org.bukkit.World playerWorld = player1.player.getWorld();
+        this.world = BukkitAdapter.adapt(playerWorld);
+        biomeLocationsPlayer1 = Arrays.asList( // Add local cords to biome placement
+                new Location(playerWorld,0,0,0),
+                new Location(playerWorld,0,0,0),
+                new Location(playerWorld,0,0,0)
+        );
+        biomeLocationsPlayer2 = Arrays.asList(
+                new Location(playerWorld,0,0,0),
+                new Location(playerWorld,0,0,0),
+                new Location(playerWorld,0,0,0)
+        );
     }
     public void instantiateBox(List<ItemData> randomizedItems) throws WorldEditException {
         this.randomizedItems = randomizedItems;
@@ -69,5 +85,21 @@ public class PlayerBox {
     }
     public Location getPlayer2Pos(){
         return locationOfBox.clone().add(10,1,4);
+    }
+
+    public Location getBiomeLocationPlayer1(int pos){
+        return biomeLocationsPlayer1.get(pos);
+    }
+    public Location getBiomeLocationPlayer2(int pos){
+        return biomeLocationsPlayer2.get(pos);
+    }
+
+    public int biomeLocationSize(){
+        return biomeLocationsPlayer2.size();
+    }
+
+    @Override
+    public void startGame() {
+
     }
 }
